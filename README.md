@@ -86,6 +86,7 @@ cat > file22
 
 cut -c1-3 file11
 ## OUTPUT
+<img width="307" height="92" alt="image" src="https://github.com/user-attachments/assets/f37716d6-b76c-4bf0-b412-cca47e7efedd" />
 
 
 
