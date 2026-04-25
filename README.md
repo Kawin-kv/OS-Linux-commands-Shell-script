@@ -63,6 +63,7 @@ comm file1 file2
  
 diff file1 file2
 ## OUTPUT
+<img width="521" height="272" alt="image" src="https://github.com/user-attachments/assets/b9918c5d-0569-4b43-bcd2-b97ec01a65e5" />
 
 
 #Filters
