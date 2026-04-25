@@ -58,6 +58,7 @@ cmp file1 file2
  
 comm file1 file2
  ## OUTPUT
+<img width="516" height="228" alt="image" src="https://github.com/user-attachments/assets/2123372f-5b71-49f9-a3bc-a20058147344" />
 
  
 diff file1 file2
