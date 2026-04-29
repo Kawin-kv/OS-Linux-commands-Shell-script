@@ -688,6 +688,7 @@ $ chmod 755 iftest.sh
  
 $ ./iftest.sh 
 ##OUTPUT
+<img width="669" height="155" alt="image" src="https://github.com/user-attachments/assets/2356f116-1a7a-466b-908e-cedd0c82a43c" />
 
 # check if a file
 cat > ifnested.sh 
@@ -739,7 +740,7 @@ $ ./ifnested.sh
 ##OUTPUT
 
 # looking for a possible value using elif
-cat elifcheck.sh 
+cat elifcheck.sh clear
 ```bash
 \#!/bin/bash
 if [ $USER = Ram ]
@@ -781,7 +782,7 @@ fi
 $ chmod 755 ifcompound.sh
 $ ./ifcompound.sh 
 ## OUTPUT
-
+clear
 # using the case command
 cat >casecheck.sh 
 ```bash
@@ -906,7 +907,7 @@ $ chmod 777 forinfile.sh
 $ cat cities
 Hyderabad
 Alampur
-Basara
+Basarac
 Warangal
 Adilabad
 Bhadrachalam
@@ -1092,7 +1093,7 @@ while (( "$#" )); do
   shift 
 done
 set +x
-```
+```cdd
 ## OUTPUT
  ./argshift.sh 1 2 3
  
