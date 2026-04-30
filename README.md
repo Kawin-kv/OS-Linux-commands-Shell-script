@@ -818,7 +818,8 @@ done
 $ chmod 755 whiletest.sh
  
 $ ./whiletest.sh
- 
+ <img width="792" height="568" alt="image" src="https://github.com/user-attachments/assets/60f5fd4f-3665-42a3-9887-e7cd7b42e2e6" />
+
  
 cat untiltest.sh 
 ```bash
