@@ -783,7 +783,8 @@ fi
 $ chmod 755 ifcompound.sh
 $ ./ifcompound.sh 
 ## OUTPUT
-clear
+<img width="774" height="622" alt="image" src="https://github.com/user-attachments/assets/5f0a0e48-a45e-4ced-9c33-6ae6b0ba62e1" />
+
 # using the case command
 cat >casecheck.sh 
 ```bash
