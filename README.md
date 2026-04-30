@@ -766,6 +766,7 @@ $ chmod 755 elifcheck.sh
  
 $ ./elifcheck.sh 
 ## OUTPUT
+<img width="692" height="608" alt="image" src="https://github.com/user-attachments/assets/fe44ca2e-bf4f-40d2-a8f9-9ba2063b38e8" />
 
 
 # testing compound comparisons
